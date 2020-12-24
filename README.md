@@ -15,6 +15,6 @@ Left=L<br>
 Right=R<br> 
 and for Stop =S <br> 
 *************************<br>
-For maze solver after initial start calibrate until it starts the movement. The calibration is only done once 
+For maze solver after initial start calibrate until it starts the movement. The calibration is only done once <br>
 **Tune Kp ki and kd value according to your envirenment**
 ![](DSC_0194.JPG)
